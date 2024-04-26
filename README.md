@@ -1,7 +1,5 @@
-# FiveMSimpleHTMLSite
-Simple HTML Website for a fivem server
+# Red Sunset Roleplay
+A Website For Red Sunset Roleplay
 
-
-# Setup
-
-Edit the Index.html and fill your details into it.
+# Website
+https://austincabler13.github.io/Red-Sunset-Roleplay/
